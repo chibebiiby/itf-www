@@ -6,11 +6,10 @@
 		<h1>นนทพัทธ์ บัวเกิด</h1>
 		<p>แบงค์</p>
 		<img src="cat.png">
-    <img src="doraemon.png">
+    		<img src="doraemon.png">
 		<br>
-		<a href="https://www.netflix.com/th-en/">This is a Link</a>
+		<a href="https://www.netflix.com/th-en/">Netf**k</a>
 
-		<h2>The unordered list</h2>
 		<ul>
 			<li>สมชายเดินชมพิพิธภัณฑ์ และหยุดที่หน้าโครงกระดูกไดโนเสาร์<br>
 <li>หันไปบอกกับคนที่ยืนข้างๆ<br>
