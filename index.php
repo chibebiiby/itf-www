@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title>หล่อเท่</title>
+		<meta character="UTF-8">
 	</head>
 	<body>
 		<h1>นนทพัทธ์ บัวเกิด</h1>
