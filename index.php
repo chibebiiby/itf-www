@@ -14,16 +14,16 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <img src="img/creative/creative3.jpg" class="img-fluid" style="width: 100%; height: 100%;">
+                <img src="creative3.jpg" class="img-fluid" style="width: 100%; height: 100%;">
             </div>
             <div class="col-sm-3">
-                <img src="img/creative/creative2.jpg" class="img-fluid" style="width: 100%; height: 33.33%;">
-                <img src="img/creative/creative7.jpg" class="img-fluid" style="width: 100%; height: 33.33%;">
-                <img src="img/creative/creative4.jpg" class="img-fluid" style="width: 100%; height: 33.33%;">
+                <img src="creative2.jpg" class="img-fluid" style="width: 100%; height: 33.33%;">
+                <img src="creative7.jpg" class="img-fluid" style="width: 100%; height: 33.33%;">
+                <img src="creative4.jpg" class="img-fluid" style="width: 100%; height: 33.33%;">
             </div>
             <div class="col-sm-3">
-                <img src="img/creative/creative.jpg" class="img-fluid" style="width: 100%; height: 66.66%;">
-                <img src="img/creative/creative5.jpg" class="img-fluid" style="width: 100%; height: 33.33%;">
+                <img src="creative.jpg" class="img-fluid" style="width: 100%; height: 66.66%;">
+                <img src="creative5.jpg" class="img-fluid" style="width: 100%; height: 33.33%;">
 
             </div>
         </div>
