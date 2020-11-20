@@ -24,7 +24,7 @@
 <body>
 <?php
 $conn = mysqli_init();
-mysqli_real_connect($conn, 'ntpz.mysql.database.azure.com', 'chibebiiby@ntpz', 'Pr1234567', 'itflab', 3306);
+mysqli_real_connect($conn, 'ntpz.mysql.database.azure.com', 'chibebiiby@ntpz', 'Chibe8888', 'itflab', 3306);
 if (mysqli_connect_errno($conn))
 {
     die('Failed to connect to MySQL: '.mysqli_connect_error());
