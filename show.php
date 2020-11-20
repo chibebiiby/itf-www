@@ -27,7 +27,7 @@ $conn = mysqli_init();
 mysqli_real_connect($conn, 'ntpz.mysql.database.azure.com', 'chibebiiby@ntpz', 'Chibe8888', 'itflab', 3306);
 if (mysqli_connect_errno($conn))
 {
-    die('Failed to connect to MySQL: '.mysqli_connect_error());
+    header('location:show.php');
 }
 $res = mysqli_query($conn, 'SELECT * FROM guestbook');
 ?>
