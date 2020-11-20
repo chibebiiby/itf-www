@@ -60,5 +60,3 @@ mysqli_close($conn);
 <a href="form.html" class="btn btn-primary">เพิ่ม</a>
 </body>
 </html>
-</body>
-</html>
